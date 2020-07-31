@@ -1,0 +1,12 @@
+.strike{
+    text-decoration: line-through;
+}
+
+h1{
+    color:blue;
+    background-color: slategray;
+}
+
+p{
+    color: slategray;
+}
